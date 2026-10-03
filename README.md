@@ -10,6 +10,12 @@
 
 </div>
 
+<div align="center">
+
+| [<img src="https://github.com/DwiDevelopes.png" width="100px;"/><br /><sub><b>DwiDevelopes</b></sub>](https://github.com/DwiDevelopes) | [<img src="https://github.com/katshinz.png" width="100px;"/><br /><sub><b>katshinz</b></sub>](https://github.com/katshinz) | [<img src="https://github.com/codingvibe493.png" width="100px;"/><br /><sub><b>kkoons075-png</b></sub>](https://github.com/codingvibe493) |
+| :---: | :---: | :---: |
+
+</div>
 
 <img src = "https://github.com/extension-publisher-vsx-registry/pdf-cat-view/blob/main/main.gif?raw=true">
 
