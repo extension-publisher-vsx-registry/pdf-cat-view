@@ -2,7 +2,7 @@
 
 <img src="https://github.com/DwiDevelopes/pdf-cat-view/blob/main/icon/icon.png?raw=true" style="border-radius:50%" width="72" height="72" alt="XAMPP Meta Panel Logo" />
 
-# PDF CAT VIEW
+# PDF CAT VIEW - PRESS RELEASE 1.0.0
 
 **Powerfull PDF Preview Project**
 
