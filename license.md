@@ -1,4 +1,4 @@
-Copyright (c) 2026 Dwi Bakti n Dev
+Copyright (c) 2026 Dwi Bakti N Dev
 
 MIT License
 
