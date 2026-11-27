@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/DwiDevelopes/pdf-cat-view/blob/main/icon/icon.png?raw=true" style="border-radius:50%" width="72" height="72" alt="XAMPP Meta Panel Logo" />
+<img src="https://github.com/extension-publisher-vsx-registry/pdf-cat-view/blob/main/icon/icon.png?raw=true" style="border-radius:50%" width="72" height="72" alt="XAMPP Meta Panel Logo" />
 
 # PDF CAT VIEW - PRESS RELEASE 1.0.0
 
